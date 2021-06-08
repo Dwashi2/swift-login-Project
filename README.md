@@ -31,7 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p float="left">
-  <img src="https://github.com/Dwashi2/swift-loginGradient/blob/main/1.png" width="248">
+  <img src="https://github.com/Dwashi2/swift-login-Project/blob/main/1.png" width="248">
 </p>
  
  
